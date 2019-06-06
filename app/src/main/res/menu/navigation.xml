@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/lichhoc"
+        android:icon="@drawable/ic_khoa_hoc_black_24dp"
+        android:title="Calendar" />
+
+    <item
+        android:id="@+id/diemdanh"
+        android:icon="@drawable/ic_diem_danh_black_24dp"
+        android:title="Attendance" />
+
+    <item
+        android:id="@+id/diem"
+        android:icon="@drawable/ic_diem_24dp"
+        android:title="Point" />
+    <item
+        android:id="@+id/thongbao"
+        android:icon="@drawable/ic_notifications_none_black_24dp"
+        android:title="Notification" />
+
+    <item
+        android:id="@+id/caidat"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="Setting" />
+
+</menu>

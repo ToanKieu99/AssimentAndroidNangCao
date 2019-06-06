@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">AssimentAndroidNangCao</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="rss_text">https://moet.gov.vn/rss/Pages/index.aspx?ItemID=54</string>
+    <string name="rss_trangthai" />
+    <string name="rss_taitrang">Tải dữ liệu</string>
+    <string name="facebook_app_id">510522732789099</string>
+    <string name="title_activity_course">Course</string>
+    <string name="JavaWeb">Java là một ngôn ngữ lập trình được sử dụng để xay dựng website và các ứng dụng web.
+        Hiện nay Java đang là một trong các ngôn ngữ hàng đầu được các doanh nghiệp và lập trình viên lựa chọn.
+        Khi sử dụng Java công việc của các lập trình viên sẽ nhẹ nhành,
+        đơn giản hơn rất nhiều đặc biệt là trong học lập trình php cơ bản và nâng cao.
+        Đến đây thì bạn đọc cũng có thể hình dung và hiểu ra được rằng Java Web là gì rồi
+        Java là một ngôn ngữ hoạt động độc lập. Java có thể hoạt động tốt trên hầu hết các thiết bị như desktop,
+        laptop, mobile, console, máy in, tivi…
+        Java hỗ trợ hầu hết các nền tảng khác nhau như: Windows, Linux, Mac OS và Solaris.
+        Java là ngôn ngữ lập trình hướng đối tượng nên cấu hình đơn giản và dễ sử dụng,
+        đặc biệt là Java có khả năng sử dụng lại và mở rộng các mô đun,
+        hay nói cách khác là bạn có thể tái sử dụng cũng như mở rộng các code cũ.
+        Điều này giúp bạn tiết kiệm được thời gian và tiết kiệm được một khoản chi phí lớn.
+        Khi sử dụng Java các bạn có thể chạy nhiều chương trình song song cùng một lúc và có các chương trình có thể tương tác với nhau vì Java có tính chất đa luồng.
+        Xem thêm: khóa học android
+        Cộng đồng hỗ trợ mạnh mẽ nên các bạn có sẽ dễ dàng nhận được sự trợ giúp khi gặp khó khăn trong quá trình học hay làm việc.
+        Từ trước tới nay Java luôn là một trong các ngôn ngữ hàng đầu được nhiều doanh nghiệp sử dụng để phát triển phần mềm của mình nên cơ hội việc làm của bạn rất lớn với mức lương hấp dẫn.
+        Khi đến với khoá học của chúng tôi bạn sẽ được hướng dẫn một cách chi tiết.
+        Như là cầm tay chỉ việc.
+        Và sau khi kết thúc khoá học 200$ của chúng tôi bạn có thể tự tạo đuọc một Website tuỳ ý của mình
+        hoặc là có làm được những trang Web mà khác hàng thuê làm</string>
+    <string name="JavaWeb2">Chào mừng các bạn đã đến với khoá học Lập trình Java Web của chúng tôi.
+        Qúa trình đào tạo của khoá học này kheí dài 4 tháng.
+        Tương đương với 104 ca. Mỗi ca học kéo dài 2 tiếng,
+        thời gian học từ 9h20 Sáng đến 11h20.
+        Bạn sau khoá học này bạn sẽ có thể tự thiết kế được 1 trang web tuỳ ý bằng ngôn ngữ Java
+        Khoá học này nhằm đáp ứng nhu cầu hiện này khi website đang phổ biết trong
+        việc phụ vụ mua bán hay quảng cáo.
+        Mọi thông tin chi tiết sẽ được cập nhập từng ngày trên web của trung tâm và gmail đăng ký của bạn</string>
+    <string name="php">PHP (viết tắt hồi quy "PHP: Hypertext Preprocessor")
+        là một ngôn ngữ lập trình kịch bản hay một loại mã lệnh chủ yếu được dùng để
+        phát triển các ứng dụng viết cho máy chủ, mã nguồn mở, dùng cho mục đích tổng quát.
+        Nó rất thích hợp với web và có thể dễ dàng nhúng vào trang HTML.
+        Do được tối ưu hóa cho các ứng dụng web, tốc độ nhanh, nhỏ gọn, cú pháp giống C và Java,
+        dễ học và thời gian xây dựng sản phẩm tương đối ngắn hơn so với các ngôn ngữ khác
+        nên PHP đã nhanh chóng trở thành một ngôn ngữ lập trình web phổ biến nhất thế giới.</string>
+    <string name="php2">Chào mừng các bạn đã đến với khoá học Lập trình PHP của chúng tôi.
+        Qúa trình đào tạo của khoá học này kheí dài 4 tháng.
+        Tương đương với 104 ca. Mỗi ca học kéo dài 2 tiếng,
+        thời gian học từ 9h20 Sáng đến 11h20.
+        Bạn sau khoá học này bạn sẽ có thể tự thiết kế được 1 trang web tuỳ ý bằng ngôn ngữ Java
+        Khoá học này nhằm đáp ứng nhu cầu hiện này khi website đang phổ biết trong
+        việc phụ vụ mua bán hay quảng cáo.
+        Mọi thông tin chi tiết sẽ được cập nhập từng ngày trên web của trung tâm và gmail đăng ký của bạn</string>
+
+    <string name="php3">PHP (viết tắt hồi quy "PHP: Hypertext Preprocessor")
+        là một ngôn ngữ lập trình kịch bản hay một loại mã lệnh chủ yếu được dùng để
+        phát triển các ứng dụng viết cho máy chủ, mã nguồn mở, dùng cho mục đích tổng quát.
+        Nó rất thích hợp với web và có thể dễ dàng nhúng vào trang HTML.
+        Do được tối ưu hóa cho các ứng dụng web, tốc độ nhanh, nhỏ gọn, cú pháp giống C và Java,
+        dễ học và thời gian xây dựng sản phẩm tương đối ngắn hơn so với các ngôn ngữ khác
+        nên PHP đã nhanh chóng trở thành một ngôn ngữ lập trình web phổ biến nhất thế giới.
+    Chào mừng các bạn đã đến với khoá học Lập trình PHP của chúng tôi.
+        Qúa trình đào tạo của khoá học này kheí dài 4 tháng.
+        Tương đương với 104 ca. Mỗi ca học kéo dài 2 tiếng,
+        thời gian học từ 9h20 Sáng đến 11h20.
+        Bạn sau khoá học này bạn sẽ có thể tự thiết kế được 1 trang web tuỳ ý bằng ngôn ngữ Java
+        Khoá học này nhằm đáp ứng nhu cầu hiện này khi website đang phổ biết trong
+        việc phụ vụ mua bán hay quảng cáo.
+        Mọi thông tin chi tiết sẽ được cập nhập từng ngày trên web của trung tâm và gmail đăng ký của bạn</string>
+
+    <string name="android">Nhắc đến Android chúng ta có thể liên tưởng ngay đến 
+        những chiếc điện thoại chạy hệ điều hành android như Samsung,HTC,LG…. 
+        Để có thể lập trình android để điện thoại bạn sử dụng hệ điều hành đó 
+        chúng ta cần biết ngôn ngữ được dùng ở đây chính là ngôn ngữ lập trình java.
+        Như các bạn đã biết hệ điều hành android phát triển như thế nào, 
+        và ngôn ngữ lập trình java đã trở thành 1 ngôn ngữ rất phổ biến để phát triển lập trình android.
+    Chào mừng các bạn đã đến với khoá học Lập trình Android từ cơ bản đến nâng cao của chúng tôi.
+        Qúa trình đào tạo của khoá học này kheí dài 4 tháng.
+        Tương đương với 104 ca. Mỗi ca học kéo dài 2 tiếng,
+        thời gian học từ 9h20 Sáng đến 11h20.
+        Bạn sau khoá học này bạn sẽ có thể tự thiết kế được 1 trang web tuỳ ý bằng ngôn ngữ Java
+        Khoá học này nhằm đáp ứng nhu cầu hiện này khi website đang phổ biết trong
+        việc phụ vụ mua bán hay quảng cáo.
+        Mọi thông tin chi tiết sẽ được cập nhập từng ngày trên web của trung tâm và gmail đăng ký của bạn</string>
+
+    <string name="react_native">React Native cũng giống như React,
+        nhưng nó sử dụng các thành phần gốc thay vì các thành phần web như các khối xây dựng.
+        Vì vậy, để hiểu cấu trúc cơ bản của ứng dụng React Native,
+        bạn cần hiểu một số khái niệm React cơ bản, như JSX, các thành phần state,
+        và props. Nếu bạn đã biết React, bạn vẫn cần phải tìm hiểu một số công cụ React-Native-cụ thể,
+        như các thành phần gốc.
+    Trước hết, ES2015 (còn gọi là ES6) là một bộ cải tiến đối với 
+        JavaScript hiện là một phần của tiêu chuẩn chính thức, 
+        nhưng chưa được hỗ trợ bởi tất cả các trình duyệt, 
+        vì vậy thường thì nó chưa được sử dụng trong phát triển web.
+        Phản ứng các tàu bản địa có hỗ trợ ES2015, vì vậy bạn có thể sử dụng công cụ này mà không phải 
+        lo lắng về khả năng tương thích. import, from, class, Và extendstrong ví dụ trên là tất cả các tính 
+        năng ES2015. Nếu bạn không quen thuộc với ES2015, bạn có thể nhặt nó lên chỉ bằng cách đọc qua mã mẫu 
+        như hướng dẫn này. Nếu bạn muốn, trang này có tổng quan về các tính năng của ES2015.</string>
+
+    <string name="c">C# (đọc là "C thăng" hay "C sharp" ("xi-sáp")) là
+        một ngôn ngữ lập trình hướng đối tượng được phát triển bởi Microsoft,
+        là phần khởi đầu cho kế hoạch .NET của họ.
+        Tên của ngôn ngữ bao gồm ký tự thăng theo Microsoft nhưng theo ECMA là C#,
+        chỉ bao gồm dấu số thường. Microsoft phát triển C# dựa trên C++ và Java.
+        C# được miêu tả là ngôn ngữ có được sự cân bằng giữa C++, Visual Basic, Delphi và Java.
+        C# được thiết kế chủ yếu bởi Anders Hejlsberg kiến trúc sư phần mềm nổi tiếng với các sản phẩm Turbo Pascal,
+        Delphi, J++, WFC.</string>
+</resources>
